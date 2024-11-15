@@ -9,3 +9,27 @@ Ruby Intro
 
 Documentation: https://ruby-doc.org
 
+Objects
+- An object-oriented programming language
+- No "primitives"
+- Most everything is an object
+- Similar to physical objects 
+- Objects can represent abstract ideas
+- Objects have attributes
+- Objects are instances of a class
+- Objects have 
+
+Variables
+- Not objects
+- Store a reference to an object
+
+Variable Scope Indicators
+- Gloabl -> $var 
+- Class -> @@var
+- Instance -> @var 
+- Local -> var
+- block -> var
+
+Numbers
+- Integers
+- Floating-point numbers - floats
