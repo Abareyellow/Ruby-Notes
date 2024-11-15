@@ -1,0 +1,11 @@
+Ruby Intro
+
+- Programming language
+- Created in 1995 in Japan by Yukihiro "Matz" Matsumoto
+- Similar to Python and Perl
+- Interpreted language, not 
+- OOP
+- Easily readable code, like English
+
+Documentation: https://ruby-doc.org
+
